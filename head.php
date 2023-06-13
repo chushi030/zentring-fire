@@ -10,7 +10,7 @@ header('Access-Control-Allow-Headers: X-Requested-With, Content-Type, Accept');
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="og:title" content="Zentring Fire 許願火">
+    <meta name="og:title" content="Zentring Fire 許願水">
     <meta name="og:description" content="Zentring Fire 許願火，第一個採用區塊鍊的許願火，讓你心想事成">
     <meta name="og:type" content="website">
     <meta name="og:url" content="https://fire.zentring.net/">
